@@ -44,3 +44,5 @@ network:
 ```
 2. 应用配置
 `sudo netplan apply`
+
+项目启动后，宿主机看不到自己的vthIP，因为没有设置
